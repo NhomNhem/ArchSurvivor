@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e982d21179aefd54aa31d81d0fda05c0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 83013
+  packageName: Inspector Gadgets Pro
+  packageVersion: 8.0.1
+  assetPath: Packages/com.kybernetik.inspector-gadgets/Editor/Attributes/Inspectables/BaseInspectableAttributeDrawer.cs
+  uploadId: 748308

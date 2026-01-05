@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 49cc216f7c4c76448a223d375174b18b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 83013
+  packageName: Inspector Gadgets Pro
+  packageVersion: 8.0.1
+  assetPath: Packages/com.kybernetik.inspector-gadgets/Runtime/Comments/IComment.cs
+  uploadId: 748308

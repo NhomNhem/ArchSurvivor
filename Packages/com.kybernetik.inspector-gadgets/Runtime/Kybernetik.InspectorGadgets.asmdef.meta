@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4516fe32c11b32b4c8eb0d5ed6f6d7bc
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 83013
+  packageName: Inspector Gadgets Pro
+  packageVersion: 8.0.1
+  assetPath: Packages/com.kybernetik.inspector-gadgets/Runtime/Kybernetik.InspectorGadgets.asmdef
+  uploadId: 748308

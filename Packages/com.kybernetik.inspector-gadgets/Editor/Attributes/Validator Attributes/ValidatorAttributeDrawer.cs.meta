@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 7cadb0cdb4e3a0b42bc42defc520504e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 83013
+  packageName: Inspector Gadgets Pro
+  packageVersion: 8.0.1
+  assetPath: Packages/com.kybernetik.inspector-gadgets/Editor/Attributes/Validator
+    Attributes/ValidatorAttributeDrawer.cs
+  uploadId: 748308

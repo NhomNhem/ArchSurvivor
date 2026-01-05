@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5dd39c7bbde1a6949b9fe1cf95d8c1c9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 83013
+  packageName: Inspector Gadgets Pro
+  packageVersion: 8.0.1
+  assetPath: Packages/com.kybernetik.inspector-gadgets/Editor/Other/AssemblyInfo.cs
+  uploadId: 748308

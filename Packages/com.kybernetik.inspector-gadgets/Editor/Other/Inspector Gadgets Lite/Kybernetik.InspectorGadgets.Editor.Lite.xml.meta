@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 36698388d629a704c9be91eb24e13b27
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 83013
+  packageName: Inspector Gadgets Pro
+  packageVersion: 8.0.1
+  assetPath: Packages/com.kybernetik.inspector-gadgets/Editor/Other/Inspector Gadgets
+    Lite/Kybernetik.InspectorGadgets.Editor.Lite.xml
+  uploadId: 748308

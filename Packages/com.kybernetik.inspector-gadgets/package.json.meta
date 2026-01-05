@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 841f68062ce3b3441a84775e25206312
+PackageManifestImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 83013
+  packageName: Inspector Gadgets Pro
+  packageVersion: 8.0.1
+  assetPath: Packages/com.kybernetik.inspector-gadgets/package.json
+  uploadId: 748308

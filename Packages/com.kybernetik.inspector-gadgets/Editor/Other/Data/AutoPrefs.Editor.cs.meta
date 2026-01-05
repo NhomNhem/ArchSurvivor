@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 75276622ae7b5bc468c8b6fa41114acc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 83013
+  packageName: Inspector Gadgets Pro
+  packageVersion: 8.0.1
+  assetPath: Packages/com.kybernetik.inspector-gadgets/Editor/Other/Data/AutoPrefs.Editor.cs
+  uploadId: 748308

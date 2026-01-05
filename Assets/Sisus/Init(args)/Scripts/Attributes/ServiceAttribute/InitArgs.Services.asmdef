@@ -1,0 +1,22 @@
+{
+    "name": "InitArgs.Services",
+    "rootNamespace": "Sisus.Init",
+    "references": [
+        "GUID:382b51f79fae5634884dfdc10bd52eeb"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.addressables",
+            "expression": "1.17.4",
+            "define": "UNITY_ADDRESSABLES_1_17_4_OR_NEWER"
+        }
+    ],
+    "noEngineReferences": false
+}
