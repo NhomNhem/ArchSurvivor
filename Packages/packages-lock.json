@@ -14,6 +14,14 @@
       "dependencies": {},
       "url": "https://package.openupm.com"
     },
+    "com.kybernetik.animancer": {
+      "version": "file:com.kybernetik.animancer",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.unity.modules.animation": "1.0.0"
+      }
+    },
     "com.kybernetik.inspector-gadgets": {
       "version": "file:com.kybernetik.inspector-gadgets",
       "depth": 0,
