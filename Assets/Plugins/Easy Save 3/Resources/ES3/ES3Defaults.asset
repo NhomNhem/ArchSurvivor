@@ -35,6 +35,8 @@ MonoBehaviour:
     referenceMode: 2
     serializationDepthLimit: 64
     assemblyNames:
+    - ASP
+    - ASPDemo
     - Assembly-CSharp
     - Assembly-CSharp-firstpass
     - DOTween.Modules

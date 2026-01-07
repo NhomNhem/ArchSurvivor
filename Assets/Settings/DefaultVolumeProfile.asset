@@ -107,6 +107,106 @@ MonoBehaviour:
   clamp:
     m_OverrideState: 1
     m_Value: 0.05
+--- !u!114 &-7362123267272757318
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db4e9ad3e9694425b66636e55d88ae56, type: 3}
+  m_Name: ASPSreenSpaceOutline
+  m_EditorClassIdentifier: ASP::ASP.ASPSreenSpaceOutline
+  active: 1
+  EnableOutline:
+    m_OverrideState: 1
+    m_Value: 0
+  ApplyFXAA:
+    m_OverrideState: 1
+    m_Value: 0
+  OutlineWidth:
+    m_OverrideState: 1
+    m_Value: 1
+  OutlineColor:
+    m_OverrideState: 1
+    m_Value: {r: 0, g: 0, b: 0, a: 1}
+  EnableOuterline:
+    m_OverrideState: 1
+    m_Value: 1
+  EnableMaterialEdge:
+    m_OverrideState: 1
+    m_Value: 1
+  MaterialEdgeThreshold:
+    m_OverrideState: 1
+    m_Value: 1
+  MaterialEdgeWeight:
+    m_OverrideState: 1
+    m_Value: 5
+  MaterialEdgeBias:
+    m_OverrideState: 1
+    m_Value: 2
+  EnableAlbedoEdge:
+    m_OverrideState: 1
+    m_Value: 1
+  AlbedoEdgeThreshold:
+    m_OverrideState: 1
+    m_Value: 1
+  AlbedoEdgeWeight:
+    m_OverrideState: 1
+    m_Value: 5
+  AlbedoEdgeBias:
+    m_OverrideState: 1
+    m_Value: 2
+  EnableDepthEdge:
+    m_OverrideState: 1
+    m_Value: 1
+  DepthEdgeThreshold:
+    m_OverrideState: 1
+    m_Value: 1
+  DepthEdgeWeight:
+    m_OverrideState: 1
+    m_Value: 20
+  DepthEdgeBias:
+    m_OverrideState: 1
+    m_Value: 2
+  EnableNormalsEdge:
+    m_OverrideState: 1
+    m_Value: 1
+  NormalsEdgeThreshold:
+    m_OverrideState: 1
+    m_Value: 1
+  NormalsEdgeWeight:
+    m_OverrideState: 1
+    m_Value: 1
+  NormalsEdgeBias:
+    m_OverrideState: 1
+    m_Value: 3
+  FadingWeghtByDistance:
+    m_OverrideState: 1
+    m_Value: 1
+  FadingColorByDistance:
+    m_OverrideState: 1
+    m_Value: 1
+  ColorWeightFadingStartEndDistance:
+    m_OverrideState: 1
+    m_Value: {x: 2, y: 15}
+  FadingWidthByDistance:
+    m_OverrideState: 1
+    m_Value: 0
+  WidthFadingStartEndDistance:
+    m_OverrideState: 1
+    m_Value: {x: 2, y: 15}
+  EnableDebugMode:
+    m_OverrideState: 1
+    m_Value: 0
+  DebugBackground:
+    m_OverrideState: 1
+    m_Value: {r: 1, g: 1, b: 1, a: 1}
+  ScreenSpaceOutlineDebugMode:
+    m_OverrideState: 1
+    m_Value: 7
 --- !u!114 &-7274224791359825572
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -342,6 +442,9 @@ MonoBehaviour:
   skyOcclusionIntensityMultiplier:
     m_OverrideState: 1
     m_Value: 1
+  worldOffset:
+    m_OverrideState: 1
+    m_Value: {x: 0, y: 0, z: 0}
 --- !u!114 &-1216621516061285780
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -374,6 +477,9 @@ MonoBehaviour:
     m_OverrideState: 1
     m_Value: {r: 1, g: 1, b: 1, a: 1}
   highQualityFiltering:
+    m_OverrideState: 1
+    m_Value: 0
+  filter:
     m_OverrideState: 1
     m_Value: 0
   downscale:
@@ -462,8 +568,8 @@ MonoBehaviour:
   - {fileID: -6288072647309666549}
   - {fileID: 7518938298396184218}
   - {fileID: -1410297666881709256}
-  - {fileID: -7750755424749557576}
-  - {fileID: -5139089513906902183}
+  - {fileID: -7362123267272757318}
+  - {fileID: 5910715825058072185}
 --- !u!114 &853819529557874667
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -850,6 +956,31 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   active: 1
   intensity:
+    m_OverrideState: 1
+    m_Value: 0
+--- !u!114 &5910715825058072185
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a453c28f6a48485f9c40d2a8e393a61c, type: 3}
+  m_Name: ASPToneMap
+  m_EditorClassIdentifier: ASP::ASP.ASPToneMap
+  active: 1
+  ToneMapType:
+    m_OverrideState: 1
+    m_Value: 1
+  Exposure:
+    m_OverrideState: 1
+    m_Value: 1
+  IgnoreCharacterPixels:
+    m_OverrideState: 1
+    m_Value: 0
+  CharacterPixelsToneMapStrength:
     m_OverrideState: 1
     m_Value: 0
 --- !u!114 &6940869943325143175

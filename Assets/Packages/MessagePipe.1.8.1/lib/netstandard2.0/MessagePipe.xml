@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MessagePipe</name>
+    </assembly>
+    <members>
+        <member name="M:MessagePipe.Internal.FreeList`1.TryDispose(System.Int32@)">
+            <summary>
+            Dispose and get cleared count.
+            </summary>
+        </member>
+        <member name="T:MessagePipe.MessagePipeDiagnosticsInfo">
+            <summary>
+            Diagnostics info of in-memory(ISubscriber/IAsyncSubscriber) subscriptions.
+            </summary>
+        </member>
+        <member name="P:MessagePipe.MessagePipeDiagnosticsInfo.SubscribeCount">
+            <summary>Get current subscribed count.</summary>
+        </member>
+        <member name="M:MessagePipe.MessagePipeDiagnosticsInfo.GetCapturedStackTraces(System.Boolean)">
+            <summary>
+            When MessagePipeOptions.EnableCaptureStackTrace is enabled, list all stacktrace on subscribe.
+            </summary>
+        </member>
+        <member name="M:MessagePipe.MessagePipeDiagnosticsInfo.GetGroupedByCaller(System.Boolean)">
+            <summary>
+            When MessagePipeOptions.EnableCaptureStackTrace is enabled, groped by caller of subscribe.
+            </summary>
+        </member>
+        <member name="P:MessagePipe.MessagePipeOptions.DefaultAsyncPublishStrategy">
+            <summary>AsyncPublisher.PublishAsync's concurrent starategy, default is Parallel.</summary>
+        </member>
+        <member name="P:MessagePipe.MessagePipeOptions.EnableCaptureStackTrace">
+            <summary>For diagnostics usage, enable MessagePipeDiagnosticsInfo.CapturedStacktraces; default is false.</summary>
+        </member>
+        <member name="P:MessagePipe.MessagePipeOptions.HandlingSubscribeDisposedPolicy">
+            <summary>Choose how work on subscriber.Subscribe when after disposed, default is Ignore.</summary>
+        </member>
+        <member name="P:MessagePipe.MessagePipeOptions.InstanceLifetime">
+            <summary>Default publisher/subscribe's lifetime scope, default is Singleton.</summary>
+        </member>
+        <member name="P:MessagePipe.MessagePipeOptions.RequestHandlerLifetime">
+            <summary>Default IRequestHandler/IAsyncRequestHandler's lifetime scope, default is Scoped.</summary>
+        </member>
+        <member name="M:MessagePipe.MessagePipeOptions.AddGlobalMessageHandlerFilter(System.Type,System.Int32)">
+            <summary>
+            If register open generics(typeof(MyFilter&lt;&gt;)) to register all message types.
+            </summary>
+        </member>
+        <member name="M:MessagePipe.MessagePipeOptions.AddGlobalAsyncMessageHandlerFilter(System.Type,System.Int32)">
+            <summary>
+            If register open generics(typeof(MyFilter&lt;&gt;)) to register all message types.
+            </summary>
+        </member>
+        <member name="M:MessagePipe.MessagePipeOptions.AddGlobalRequestHandlerFilter(System.Type,System.Int32)">
+            <summary>
+            If register open generics(typeof(MyFilter&lt;&gt;)) to register all message types.
+            </summary>
+        </member>
+        <member name="M:MessagePipe.MessagePipeOptions.AddGlobalAsyncRequestHandlerFilter(System.Type,System.Int32)">
+            <summary>
+            If register open generics(typeof(MyFilter&lt;&gt;)) to register all message types.
+            </summary>
+        </member>
+        <member name="T:Microsoft.Extensions.DependencyInjection.IMessagePipeBuilder">
+            <summary>
+            An interface for configuring MessagePipe services.
+            </summary>
+        </member>
+    </members>
+</doc>
