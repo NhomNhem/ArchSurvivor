@@ -1,4 +1,5 @@
-﻿using _ArchSurvivor.Core.Services.Input;
+﻿using _ArchSurvivor.Core.Interfaces;
+using _ArchSurvivor.Core.Services.Input;
 using UnityEngine;
 using VContainer;
 
@@ -9,10 +10,16 @@ namespace _ArchSurvivor.Features.Player.Logic {
         [SerializeField] private float _deadZone = 0.1f;
 
         private InputService _inputService;
+        private IInputReader _inputReader;
 
         [Inject]
-        public void Construct(InputService inputService) {
-            _inputService = inputService;
+        public void Construct(IInputReader inputReader) {
+            _inputReader = inputReader;
+            _inputService = inputReader as InputService;
+            
+            if (_inputService == null) {
+                Debug.LogError("JoystickInputAdapter requires InputService as IInputReader.");
+            }
         }
 
         private void Start() {

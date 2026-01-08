@@ -8,11 +8,15 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: knight
-  m_Shader: {fileID: 4800000, guid: 9d0a8a54f6afde7419788efe572de779, type: 3}
+  m_Shader: {fileID: 4800000, guid: 55a54603fab88d940a3374f8ae9f78e8, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
-  m_ValidKeywords: []
-  m_InvalidKeywords: []
+  m_ValidKeywords:
+  - _SPECULAR_LIGHTING_ON
+  - _STYLE_CELSHADING
+  m_InvalidKeywords:
+  - _OVERRIDELIGHTDIRTOGGLE
+  - _RECEIVESHADOWS
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -181,14 +185,14 @@ Material:
     - _IsUsingRampOcclusionTexture: 0
     - _MatCapReflectionStrength: 1
     - _MatCapRollStabilize: 1
-    - _MaterialID: 0
+    - _MaterialID: 1
     - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1
     - _OffsetShadowDistance: 15
-    - _OutlineWidth: 0.1
+    - _OutlineWidth: 1.5
     - _OverrideLightColorIntensityToggle: 0
-    - _OverrideLightDirToggle: 0
+    - _OverrideLightDirToggle: 1
     - _OverrideZTest: 0
     - _PBRInfluenceDirectLighting: 0
     - _PBRMetallic: 0
@@ -242,8 +246,8 @@ Material:
     - _FakeLightEuler: {r: 180, g: 0, b: 0, a: 0}
     - _HairLightColor: {r: 1, g: 1, b: 1, a: 1}
     - _HairUVCtrl: {r: 0, g: 0, b: 1, a: 0}
-    - _OutlineColor: {r: 0, g: 0, b: 0, a: 1}
-    - _OutlineDistancFade: {r: -25, g: 50, b: 0, a: 0}
+    - _OutlineColor: {r: 0, g: 0, b: 0, a: 0}
+    - _OutlineDistancFade: {r: 50, g: 50, b: 0, a: 0}
     - _OverrideGIColor: {r: 0, g: 0, b: 0, a: 1}
     - _ReceivedShadowColor: {r: 0.8, g: 0.8, b: 0.8, a: 1}
     - _RimLightColor: {r: 1, g: 1, b: 1, a: 1}

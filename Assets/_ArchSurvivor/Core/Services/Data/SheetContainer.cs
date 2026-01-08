@@ -9,7 +9,6 @@ namespace _ArchSurvivor.Core.Services.Data {
     public class GameSheetContainer : SheetContainerBase {
         public GameSheetContainer(Microsoft.Extensions.Logging.ILogger logger) : base(logger) {}
         
-        // Example Sheet (will be expanded)
-        // public PlayerStatSheet PlayerStats { get; private set; }
+        public CharacterSheet Characters { get; private set; }
     }
 }

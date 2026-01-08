@@ -39,6 +39,11 @@ MonoBehaviour:
     - ASPDemo
     - Assembly-CSharp
     - Assembly-CSharp-firstpass
+    - BakingSheet
+    - BakingSheet.Csv
+    - BakingSheet.Google
+    - BakingSheet.Json
+    - BakingSheet.ScriptableObject
     - DOTween.Modules
     - DOTweenPro.Scripts
     - InitArgs
@@ -47,6 +52,11 @@ MonoBehaviour:
     - Kybernetik.Animancer
     - Kybernetik.Animancer.FSM
     - Kybernetik.InspectorGadgets
+    - R3.Unity
+    - R3.Unity.TextMeshPro
+    - R3.Unity.XRInteractionToolkit
+    - Udar.SceneManager
+    - Udar.SceneManager.Examples
     - UniTask
     - UniTask.Addressables
     - UniTask.DOTween

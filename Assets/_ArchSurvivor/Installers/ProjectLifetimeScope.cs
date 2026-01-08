@@ -1,3 +1,4 @@
+using _ArchSurvivor.Common.Utilities;
 using _ArchSurvivor.Core.Services.Audio;
 using _ArchSurvivor.Core.Services.Data;
 using _ArchSurvivor.Core.Services.Input;
@@ -10,6 +11,10 @@ using VContainer;
 using VContainer.Unity;
 
 public class ProjectLifetimeScope : LifetimeScope {
+    
+    [Header("Global References")]
+    [SerializeField] private Udar.SceneManager.SceneField gameplayScene;
+    
     [SerializeField] private AudioMixer audioMixer;
     [SerializeField] private UIRoot uiRootPrefab;
 
@@ -22,19 +27,22 @@ public class ProjectLifetimeScope : LifetimeScope {
             builder.RegisterInstance(audioMixer);
             builder.Register<AudioService>(Lifetime.Singleton).As<IAudioService>();
         }
-
-        builder.Register<InputService>(Lifetime.Singleton)
-            .AsImplementedInterfaces()
-            .As<IInputReader>();
+        else { 
+            builder.Register(container => new AudioService(null), Lifetime.Singleton).As<IAudioService>();
+            GameLog.Warning("AudioMixer reference is missing in ProjectLifetimeScope. AudioService will use default settings.");
+        }
+        
+        builder.Register<InputService>(Lifetime.Singleton).AsImplementedInterfaces().AsSelf();
         
         // UI
         if (uiRootPrefab != null) {
-            builder.RegisterComponentInNewPrefab(uiRootPrefab, Lifetime.Singleton)
-                .UnderTransform(transform);
+            builder.RegisterComponentInNewPrefab(uiRootPrefab, Lifetime.Singleton).UnderTransform(transform);
         }
         
         // Entry Points
-        builder.RegisterEntryPoint<GameBootstrap>();
+        builder.RegisterEntryPoint<GameBootstrap>()
+            .WithParameter("gameplayScene", gameplayScene.Name)
+            .WithParameter("uiRoot", (UIRoot)null);
     }
 }
 

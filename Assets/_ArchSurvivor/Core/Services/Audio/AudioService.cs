@@ -10,13 +10,17 @@ namespace _ArchSurvivor.Core.Services.Audio {
         private AudioSource _bgmSource;
         private readonly GameObject _audioContainer;
 
-        public AudioService(AudioMixer mixer) {
+        public AudioService(AudioMixer mixer = null) {
             _mixer = mixer;
             _audioContainer = new GameObject("AudioContainer");
             Object.DontDestroyOnLoad(_audioContainer);
             
             _bgmSource = _audioContainer.AddComponent<AudioSource>();
-            _bgmSource.outputAudioMixerGroup = _mixer.FindMatchingGroups("BGM")[0];
+            
+            if (_mixer != null) {
+                var groups = _mixer.FindMatchingGroups("BGM");
+                if (groups.Length > 0) _bgmSource.outputAudioMixerGroup = groups[0];
+            }
         }
 
         public async void PlaySFX(string assetKey) {
@@ -40,8 +44,8 @@ namespace _ArchSurvivor.Core.Services.Audio {
             _bgmSource.Stop();
         }
 
-        public void SetMasterVolume(float volume) => _mixer.SetFloat("MasterVol", Mathf.Log10(volume) * 20);
-        public void SetSFXVolume(float volume) => _mixer.SetFloat("SFXVol", Mathf.Log10(volume) * 20);
-        public void SetBGMVolume(float volume) => _mixer.SetFloat("BGMVol", Mathf.Log10(volume) * 20);
+        public void SetMasterVolume(float volume) => _mixer?.SetFloat("MasterVol", Mathf.Log10(volume) * 20);
+        public void SetSFXVolume(float volume) => _mixer?.SetFloat("SFXVol", Mathf.Log10(volume) * 20);
+        public void SetBGMVolume(float volume) => _mixer?.SetFloat("BGMVol", Mathf.Log10(volume) * 20);
     }
 }
