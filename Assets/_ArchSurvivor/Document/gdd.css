@@ -1,0 +1,53 @@
+﻿/* GDD export stylesheet — lightweight, readable for HTML and PDF via pandoc
+   Place this file next to GDD.md and pass --css=gdd.css when generating HTML. */
+
+:root{
+  --content-width: 900px;
+  --margin: 28px;
+  --base-font: "Georgia", "Times New Roman", serif;
+  --mono-font: "Consolas", "Courier New", monospace;
+  --accent: #c59d00; /* gold */
+  --muted: #666;
+}
+
+body{
+  font-family: var(--base-font);
+  color: #111;
+  line-height: 1.6;
+  max-width: var(--content-width);
+  margin: 40px auto;
+  padding: 0 20px;
+  background: #fff;
+}
+
+h1{font-size:28px; border-bottom:2px solid #eee; padding-bottom:6px;}
+h2{font-size:22px; margin-top:26px;}
+h3{font-size:18px; margin-top:18px;}
+
+img{max-width:100%; height:auto}
+
+a{color:var(--accent); text-decoration:none}
+a:hover{text-decoration:underline}
+
+/* Table of contents */
+.toc{background:#fafafa; border:1px solid #eee; padding:12px; margin:12px 0}
+.toc ul{margin:0; padding-left:18px}
+
+/* Code blocks */
+pre{background:#f6f8fa; border:1px solid #eaecef; padding:12px; overflow:auto}
+code{font-family:var(--mono-font); background:#f6f8fa; padding:2px 4px; border-radius:3px}
+
+/* Tables */
+table{border-collapse:collapse; width:100%; margin:12px 0}
+th, td{border:1px solid #ddd; padding:8px; text-align:left}
+th{background:#f4f4f4}
+
+/* Footers / metadata */
+.doc-meta{color:var(--muted); font-size:0.95em}
+
+/* Print tweaks */
+@media print{
+  body{margin:12mm}
+  .toc{page-break-after:avoid}
+}
+

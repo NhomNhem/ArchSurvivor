@@ -72,3 +72,16 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
+# Secrets & Credentials
+# Google API Keys / Service Account JSONs
+# Ignore root JSON files that might be credentials
+/*.json
+# Specific Service Account key found in root
+/archsur-efcfaa3b7a2c.json
+# Standard Google API filenames
+credentials.json
+token.json
+secret.json
+*_secret.json
+
+Assets/_ArchSurvivor/Document/
