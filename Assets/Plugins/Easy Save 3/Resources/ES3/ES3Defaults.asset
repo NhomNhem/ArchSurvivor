@@ -35,6 +35,10 @@ MonoBehaviour:
     referenceMode: 2
     serializationDepthLimit: 64
     assemblyNames:
+    - AllIn13DShaderAssemebly
+    - AllIn13DShaderDemoScriptsAssembly
+    - AmazingAssets.CurvedWorld
+    - AmazingAssets.CurvedWorld.Examples
     - ASP
     - ASPDemo
     - Assembly-CSharp
@@ -44,6 +48,9 @@ MonoBehaviour:
     - BakingSheet.Google
     - BakingSheet.Json
     - BakingSheet.ScriptableObject
+    - ChocDino.UIFX
+    - ChocDino.UIFX.Demos
+    - ChocDino.UIFX.TMP
     - DOTween.Modules
     - DOTweenPro.Scripts
     - InitArgs
@@ -63,6 +70,7 @@ MonoBehaviour:
     - UniTask.Linq
     - UniTask.TextMeshPro
     - VContainer
+    - Wingman
     showAdvancedSettings: 0
   addMgrToSceneAutomatically: 0
   autoUpdateReferences: 1

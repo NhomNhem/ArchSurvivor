@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a04f1971213537444b31e8427cae1548
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255608
+  packageName: Master Stylized Projectile
+  packageVersion: 1.0
+  assetPath: Assets/MasterStylizedProjectiles/Projectiles/Shuriken/Materials/CoreSpikeLarge.mat
+  uploadId: 825804

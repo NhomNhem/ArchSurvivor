@@ -1,0 +1,33 @@
+{
+    "name": "ChocDino.UIFX.Editor",
+    "references": [
+        "GUID:f188a8df9b3d5674bb11582ba51b70df"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.textmeshpro",
+            "expression": "2.1.4",
+            "define": "UIFX_TMPRO"
+        },
+        {
+            "name": "com.unity.ugui",
+            "expression": "2.0.0",
+            "define": "UIFX_TMPRO"
+        },
+        {
+            "name": "com.unity.modules.video",
+            "expression": "1.0.0",
+            "define": "UIFX_VIDEOPLAYER"
+        }
+    ],
+    "noEngineReferences": false
+}

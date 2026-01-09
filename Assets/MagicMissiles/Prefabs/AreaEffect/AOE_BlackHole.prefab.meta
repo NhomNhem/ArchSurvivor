@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f7988bfaf1c5eea41b9eff8f50f690e6
+timeCreated: 1430936358
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Prefabs/AreaEffect/AOE_BlackHole.prefab
+  uploadId: 510698

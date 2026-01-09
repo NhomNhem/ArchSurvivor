@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e9a028448713b8b4f83e44616d01b9d0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255608
+  packageName: Master Stylized Projectile
+  packageVersion: 1.0
+  assetPath: Assets/MasterStylizedProjectiles/Projectiles/Common/Materials/Mat_CommonRing
+    1.mat
+  uploadId: 825804

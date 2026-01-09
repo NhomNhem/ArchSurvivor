@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ac09be54c54cf5844a85bdb58b9e957f
+timeCreated: 1428944963
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Materials/General/fel_orb.mat
+  uploadId: 510698

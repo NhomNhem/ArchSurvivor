@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 075a7765871846e42b036f0df86544ce
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Materials/Shared/shared_rays.mat
+  uploadId: 510698

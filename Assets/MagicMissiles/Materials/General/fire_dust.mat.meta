@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ce36df9c52d2d88428b115eefd0bccbe
+timeCreated: 1430407377
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Materials/General/fire_dust.mat
+  uploadId: 510698

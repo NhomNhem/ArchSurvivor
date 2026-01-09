@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f1dcefbe5724a9b41b0ac68ae66304ad
+timeCreated: 1430848785
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Prefabs/Circles/ArcaneCircle3.prefab
+  uploadId: 510698

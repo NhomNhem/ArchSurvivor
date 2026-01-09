@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5cb281cb3f87bc74bbcbfa73bc36c58e
+timeCreated: 1429659631
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Materials/General/lightning.mat
+  uploadId: 510698

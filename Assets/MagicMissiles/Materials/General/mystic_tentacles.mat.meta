@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1ab0127bb54678e4b8377683db262b4c
+timeCreated: 1430594720
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Materials/General/mystic_tentacles.mat
+  uploadId: 510698

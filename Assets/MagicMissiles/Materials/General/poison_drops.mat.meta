@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6112bc557f4a3d747a76ab7c982d4524
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Materials/General/poison_drops.mat
+  uploadId: 510698

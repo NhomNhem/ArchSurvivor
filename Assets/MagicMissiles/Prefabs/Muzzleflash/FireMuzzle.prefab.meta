@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ec1152f37f1fb4e4c91301cb5468d917
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Prefabs/Muzzleflash/FireMuzzle.prefab
+  uploadId: 510698

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b6ebe680aa884684a8997184894ff56b
+timeCreated: 1430313248
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Prefabs/Explosions/HolyExplosion.prefab
+  uploadId: 510698

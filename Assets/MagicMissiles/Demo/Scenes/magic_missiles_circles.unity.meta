@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6f5f6be2d39b74a44ac0cd521931cb7c
+timeCreated: 1431352176
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Demo/Scenes/magic_missiles_circles.unity
+  uploadId: 510698

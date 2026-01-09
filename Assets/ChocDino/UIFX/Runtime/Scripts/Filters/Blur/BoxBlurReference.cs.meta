@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5b5f6a449e14e7e4aafc0aced5862577
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274847
+  packageName: UIFX - Glow Filter
+  packageVersion: 1.9.10
+  assetPath: Assets/ChocDino/UIFX/Runtime/Scripts/Filters/Blur/BoxBlurReference.cs
+  uploadId: 833966

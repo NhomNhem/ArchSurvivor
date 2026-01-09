@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dd19dbd4fab44084fa25cfb68085c6d6
+timeCreated: 1431002783
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Demo/Missile Prefabs/SandMissileOBJ.prefab
+  uploadId: 510698

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 82eb2380e8f93e64b9f170537430be84
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255608
+  packageName: Master Stylized Projectile
+  packageVersion: 1.0
+  assetPath: Assets/MasterStylizedProjectiles/Projectiles/Shoot_Purple/Prefabs/Par_PurpleShoot_Hit.prefab
+  uploadId: 825804

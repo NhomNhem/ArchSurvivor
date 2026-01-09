@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1aabf93e640014c49872b9bef2aa637e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255608
+  packageName: Master Stylized Projectile
+  packageVersion: 1.0
+  assetPath: Assets/MasterStylizedProjectiles/Scenes/MasterStylizedProjectileDemo/Main
+    Camera  Profile.asset
+  uploadId: 825804

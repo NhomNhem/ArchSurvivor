@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 322ad2b086617034f84265c3a5c16330
+timeCreated: 1429713405
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Demo/Missile Prefabs/FelMissileOBJ.prefab
+  uploadId: 510698

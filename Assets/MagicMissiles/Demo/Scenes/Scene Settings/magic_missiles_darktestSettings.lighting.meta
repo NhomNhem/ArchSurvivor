@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7c4d4766cdf63614a9e8b2e2455384e5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Demo/Scenes/Scene Settings/magic_missiles_darktestSettings.lighting
+  uploadId: 510698

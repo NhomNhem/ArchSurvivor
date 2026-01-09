@@ -1,0 +1,8 @@
+{
+    "name": "ChocDino.UIFX.Demos",
+    "references": [
+        "ChocDino.UIFX"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

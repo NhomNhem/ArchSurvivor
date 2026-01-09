@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d167f44cdf8ea604a8e915f2ed01777c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255608
+  packageName: Master Stylized Projectile
+  packageVersion: 1.0
+  assetPath: Assets/MasterStylizedProjectiles/Projectiles/Shoot_Purple/Materials/Mat_PurpleShoot_Background
+    1.mat
+  uploadId: 825804

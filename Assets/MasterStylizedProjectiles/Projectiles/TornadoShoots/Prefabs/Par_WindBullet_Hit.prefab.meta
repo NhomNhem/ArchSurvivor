@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e377192a114ad1645a0ebf52c8167275
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255608
+  packageName: Master Stylized Projectile
+  packageVersion: 1.0
+  assetPath: Assets/MasterStylizedProjectiles/Projectiles/TornadoShoots/Prefabs/Par_WindBullet_Hit.prefab
+  uploadId: 825804

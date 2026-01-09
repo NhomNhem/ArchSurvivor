@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 58a462c206ef6e84ea83fad4aedc75a7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Prefabs/Muzzleflash/PoisonMuzzle.prefab
+  uploadId: 510698

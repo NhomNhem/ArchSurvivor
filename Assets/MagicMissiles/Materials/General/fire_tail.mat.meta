@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fdf6e543d79fa6a4184bd92e3242ec5b
+timeCreated: 1430405958
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Materials/General/fire_tail.mat
+  uploadId: 510698

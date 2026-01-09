@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 567cb8bb7b2e6a346a59903c8dcbdab0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255608
+  packageName: Master Stylized Projectile
+  packageVersion: 1.0
+  assetPath: Assets/MasterStylizedProjectiles/Projectiles/Common/Materials/CommonGlow
+    1.mat
+  uploadId: 825804

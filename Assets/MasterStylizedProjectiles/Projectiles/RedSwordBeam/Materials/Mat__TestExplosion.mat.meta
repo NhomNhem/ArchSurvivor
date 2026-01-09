@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c3390f15565a76a4990fc0ee8214b93f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255608
+  packageName: Master Stylized Projectile
+  packageVersion: 1.0
+  assetPath: Assets/MasterStylizedProjectiles/Projectiles/RedSwordBeam/Materials/Mat__TestExplosion.mat
+  uploadId: 825804

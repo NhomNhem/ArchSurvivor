@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 97ac1cb3d60bda04f92696de4954c4be
+timeCreated: 1494434054
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Scripts/MMRotation.cs
+  uploadId: 510698

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dd1e68f10caffd74fa383478a469e367
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255608
+  packageName: Master Stylized Projectile
+  packageVersion: 1.0
+  assetPath: Assets/MasterStylizedProjectiles/Projectiles/Shoot_Purple/Materials/Mat_PurpleShoot_HorizontalFlare.mat
+  uploadId: 825804

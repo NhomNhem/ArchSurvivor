@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f6552bd22b2c6ae4fbb9db4f3cfaca41
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255608
+  packageName: Master Stylized Projectile
+  packageVersion: 1.0
+  assetPath: Assets/MasterStylizedProjectiles/Projectiles/Shoot_Red/Prefabs/Par_RedShoot_Bullet.prefab
+  uploadId: 825804

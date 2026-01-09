@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 903e4b059ed28e84298927bc2c030985
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Prefabs/Muzzleflash/FrostMuzzle.prefab
+  uploadId: 510698

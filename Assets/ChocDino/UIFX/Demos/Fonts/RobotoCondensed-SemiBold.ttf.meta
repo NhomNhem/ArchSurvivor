@@ -1,0 +1,32 @@
+fileFormatVersion: 2
+guid: 09bd0d5b2834dd645a076d9c05d159b4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Roboto Condensed
+  fontNames:
+  - Roboto Condensed
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9d9c1d663cb5bd84783d97e9c21785a9, type: 3}
+  - {fileID: 12800000, guid: ac2d1d092e4b2ec47953c04f9d812fc1, type: 3}
+  - {fileID: 12800000, guid: e68105bb7e21f9c409ba74f9d71f176c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274847
+  packageName: UIFX - Glow Filter
+  packageVersion: 1.9.10
+  assetPath: Assets/ChocDino/UIFX/Demos/Fonts/RobotoCondensed-SemiBold.ttf
+  uploadId: 833966

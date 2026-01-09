@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 83af1735ad64447ba3297d596d6e6f5c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260493
+  packageName: RPG Monster BUNDLE PBR
+  packageVersion: 1.0
+  assetPath: Assets/RPGMonsterBundlePBR/RPGMonsterWave03PBR/Animator/BishopKnight.controller
+  uploadId: 681971

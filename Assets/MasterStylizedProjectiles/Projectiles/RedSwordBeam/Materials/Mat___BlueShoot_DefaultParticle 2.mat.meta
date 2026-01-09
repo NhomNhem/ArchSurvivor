@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fe8c54ad2f08c9140b443618c0df2368
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255608
+  packageName: Master Stylized Projectile
+  packageVersion: 1.0
+  assetPath: Assets/MasterStylizedProjectiles/Projectiles/RedSwordBeam/Materials/Mat___BlueShoot_DefaultParticle
+    2.mat
+  uploadId: 825804

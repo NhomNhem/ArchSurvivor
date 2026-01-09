@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0d1b3d25c44e7dc449bda23c9683fe73
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 251404
+  packageName: Water- Assets for VFX 02
+  packageVersion: 1.0
+  assetPath: Assets/SrRubfish_VFX_02/DemoScene/Timelines/FX_TL_WaterWave.playable
+  uploadId: 574625

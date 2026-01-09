@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e548337b9c755cf449a7292044ea4d4e
+timeCreated: 1430336592
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Prefabs/Missiles/LightMissile.prefab
+  uploadId: 510698

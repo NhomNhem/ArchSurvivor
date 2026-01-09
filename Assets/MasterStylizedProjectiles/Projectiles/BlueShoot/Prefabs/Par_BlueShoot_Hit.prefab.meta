@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b2b2a3fc6a4c3444db01e70f094d7cdd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255608
+  packageName: Master Stylized Projectile
+  packageVersion: 1.0
+  assetPath: Assets/MasterStylizedProjectiles/Projectiles/BlueShoot/Prefabs/Par_BlueShoot_Hit.prefab
+  uploadId: 825804

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4aec5ed9426299d48a2fd734dff91cab
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255608
+  packageName: Master Stylized Projectile
+  packageVersion: 1.0
+  assetPath: Assets/MasterStylizedProjectiles/Projectiles/Shuriken/Materials/BloodRing.mat
+  uploadId: 825804

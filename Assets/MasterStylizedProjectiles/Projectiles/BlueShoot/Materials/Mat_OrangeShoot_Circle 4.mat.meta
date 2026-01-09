@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7a19b1ca0069b754987d923c768ff84d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255608
+  packageName: Master Stylized Projectile
+  packageVersion: 1.0
+  assetPath: Assets/MasterStylizedProjectiles/Projectiles/BlueShoot/Materials/Mat_OrangeShoot_Circle
+    4.mat
+  uploadId: 825804

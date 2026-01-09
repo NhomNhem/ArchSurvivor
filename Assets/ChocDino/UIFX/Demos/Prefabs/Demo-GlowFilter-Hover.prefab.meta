@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e41d08eafe3084e4dbb2964a57a61a12
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274847
+  packageName: UIFX - Glow Filter
+  packageVersion: 1.9.10
+  assetPath: Assets/ChocDino/UIFX/Demos/Prefabs/Demo-GlowFilter-Hover.prefab
+  uploadId: 833966

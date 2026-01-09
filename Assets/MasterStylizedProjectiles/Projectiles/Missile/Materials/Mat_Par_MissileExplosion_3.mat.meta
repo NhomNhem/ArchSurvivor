@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c0a8cbe62283c7d488eac089b9afe921
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255608
+  packageName: Master Stylized Projectile
+  packageVersion: 1.0
+  assetPath: Assets/MasterStylizedProjectiles/Projectiles/Missile/Materials/Mat_Par_MissileExplosion_3.mat
+  uploadId: 825804

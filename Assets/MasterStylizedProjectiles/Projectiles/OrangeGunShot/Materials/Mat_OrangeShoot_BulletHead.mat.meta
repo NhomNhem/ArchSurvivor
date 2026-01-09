@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ecc611751cfed7a45b355e1a43e88426
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255608
+  packageName: Master Stylized Projectile
+  packageVersion: 1.0
+  assetPath: Assets/MasterStylizedProjectiles/Projectiles/OrangeGunShot/Materials/Mat_OrangeShoot_BulletHead.mat
+  uploadId: 825804

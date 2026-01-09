@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 07eb0950e71536d409abd1c04a8244dc
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 625f186215c104763be7675aa2d941aa, type: 3}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 251404
+  packageName: Water- Assets for VFX 02
+  packageVersion: 1.0
+  assetPath: Assets/SrRubfish_VFX_02/Shaders/Transparencies+Gradient+VertexOffset.shadergraph
+  uploadId: 574625

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bf9d9deab23c7df47b195003421a1ff2
+timeCreated: 1430934662
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Prefabs/AreaEffect/AOE_PoisonSmog.prefab
+  uploadId: 510698

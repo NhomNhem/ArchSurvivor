@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f291ee75175bb1d4a8cffb4f6cc51f91
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274847
+  packageName: UIFX - Glow Filter
+  packageVersion: 1.9.10
+  assetPath: Assets/ChocDino/UIFX/Runtime/Shaders/Resources/Composite.shader
+  uploadId: 833966

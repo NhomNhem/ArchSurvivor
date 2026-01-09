@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5f75d975b0882c843bda1f2ace840e16
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Prefabs/Muzzleflash/BubbleMuzzle.prefab
+  uploadId: 510698

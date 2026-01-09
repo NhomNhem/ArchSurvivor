@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: acacbdf9907a21b41921b5bd139b50b0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255608
+  packageName: Master Stylized Projectile
+  packageVersion: 1.0
+  assetPath: Assets/MasterStylizedProjectiles/Projectiles/TornadoShoots/Materials/Mat_TestExplosion.mat
+  uploadId: 825804

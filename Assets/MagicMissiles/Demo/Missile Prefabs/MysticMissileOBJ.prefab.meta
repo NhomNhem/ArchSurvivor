@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 60a1daab18302134dba037f356f5af0c
+timeCreated: 1430595973
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Demo/Missile Prefabs/MysticMissileOBJ.prefab
+  uploadId: 510698

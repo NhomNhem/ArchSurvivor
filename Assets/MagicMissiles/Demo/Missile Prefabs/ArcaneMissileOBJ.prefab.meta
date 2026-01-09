@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 59dd599e9cfee924f8582b95c27bef34
+timeCreated: 1430233272
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Demo/Missile Prefabs/ArcaneMissileOBJ.prefab
+  uploadId: 510698

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6f75722097ae7bd4bbd33a693d3e9dee
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255608
+  packageName: Master Stylized Projectile
+  packageVersion: 1.0
+  assetPath: Assets/MasterStylizedProjectiles/Projectiles/Shuriken/Materials/Mat_OrangeShoot_HorizontalFlare
+    3.mat
+  uploadId: 825804

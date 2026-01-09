@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1309f80d5fba4ce4aac6d49f186e9c0f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255608
+  packageName: Master Stylized Projectile
+  packageVersion: 1.0
+  assetPath: Assets/MasterStylizedProjectiles/Projectiles/Shoot_Red/Materials/Mat_RedShoot_Dust.mat
+  uploadId: 825804

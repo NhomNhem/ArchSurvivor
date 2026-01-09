@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f33c3297d6e27eb4fad8a3df1dbf72e2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274847
+  packageName: UIFX - Glow Filter
+  packageVersion: 1.9.10
+  assetPath: Assets/ChocDino/UIFX/Runtime/Scripts/Filters/Common/DistanceMap.cs
+  uploadId: 833966

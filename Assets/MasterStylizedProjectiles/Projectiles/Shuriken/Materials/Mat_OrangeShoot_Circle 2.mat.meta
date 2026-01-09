@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 06f1df77b02cdb14f9b6a6c6b4f24443
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255608
+  packageName: Master Stylized Projectile
+  packageVersion: 1.0
+  assetPath: Assets/MasterStylizedProjectiles/Projectiles/Shuriken/Materials/Mat_OrangeShoot_Circle
+    2.mat
+  uploadId: 825804

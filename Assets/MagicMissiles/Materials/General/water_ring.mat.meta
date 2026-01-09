@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 01496c914b4fddf48a46af9b648ce1ae
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Materials/General/water_ring.mat
+  uploadId: 510698

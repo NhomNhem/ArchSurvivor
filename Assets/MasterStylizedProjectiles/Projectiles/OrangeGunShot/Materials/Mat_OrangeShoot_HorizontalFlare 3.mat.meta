@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f38140dae14877f478d1a0ee77957628
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255608
+  packageName: Master Stylized Projectile
+  packageVersion: 1.0
+  assetPath: Assets/MasterStylizedProjectiles/Projectiles/OrangeGunShot/Materials/Mat_OrangeShoot_HorizontalFlare
+    3.mat
+  uploadId: 825804

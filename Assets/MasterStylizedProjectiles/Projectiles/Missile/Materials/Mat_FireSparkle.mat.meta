@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c39168476a0e67b488f37e716b5146c6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255608
+  packageName: Master Stylized Projectile
+  packageVersion: 1.0
+  assetPath: Assets/MasterStylizedProjectiles/Projectiles/Missile/Materials/Mat_FireSparkle.mat
+  uploadId: 825804

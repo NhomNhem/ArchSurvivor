@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c73de3523a05f4e47916a45ad815938d
+timeCreated: 1430958178
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Materials/General/sand.mat
+  uploadId: 510698

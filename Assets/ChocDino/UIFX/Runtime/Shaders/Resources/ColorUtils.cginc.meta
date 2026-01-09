@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c596cd2d3d1310b4bab1bc78566be326
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274847
+  packageName: UIFX - Glow Filter
+  packageVersion: 1.9.10
+  assetPath: Assets/ChocDino/UIFX/Runtime/Shaders/Resources/ColorUtils.cginc
+  uploadId: 833966

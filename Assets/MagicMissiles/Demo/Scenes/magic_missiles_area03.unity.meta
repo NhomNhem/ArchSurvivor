@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6f7c77f9ef8037d4898afc2f3211c1e7
+timeCreated: 1431352724
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Demo/Scenes/magic_missiles_area03.unity
+  uploadId: 510698

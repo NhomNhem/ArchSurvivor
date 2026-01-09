@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 499f674ea54154d44b4da099152ba932
+timeCreated: 1430490485
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Demo/Missile Prefabs/FrostMissileOBJ.prefab
+  uploadId: 510698

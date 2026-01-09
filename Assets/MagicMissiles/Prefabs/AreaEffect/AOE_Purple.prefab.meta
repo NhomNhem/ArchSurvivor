@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 917eb6dccc0262340b97fd18389edf25
+timeCreated: 1430927279
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Prefabs/AreaEffect/AOE_Purple.prefab
+  uploadId: 510698

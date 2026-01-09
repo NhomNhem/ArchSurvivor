@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 71de8df914046584d807c6fa1f69c67a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255608
+  packageName: Master Stylized Projectile
+  packageVersion: 1.0
+  assetPath: Assets/MasterStylizedProjectiles/Projectiles/Shuriken/Prefabs/Par_ShurikenBullet.prefab
+  uploadId: 825804

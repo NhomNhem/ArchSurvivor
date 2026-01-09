@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 455e4d1376faff247b3f24d2d12d399a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Prefabs/Explosions/WaterExplosion.prefab
+  uploadId: 510698

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 07966fd003fe3ca44ab3a0d31f6437a2
+timeCreated: 1430927671
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Prefabs/AreaEffect/AOE_Cold.prefab
+  uploadId: 510698

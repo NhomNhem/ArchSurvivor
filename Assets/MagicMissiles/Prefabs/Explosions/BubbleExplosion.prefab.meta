@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7d6b96c32f9608d48842f75104718f62
+timeCreated: 1430703439
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Prefabs/Explosions/BubbleExplosion.prefab
+  uploadId: 510698

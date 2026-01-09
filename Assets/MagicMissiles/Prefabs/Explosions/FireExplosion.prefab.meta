@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8c7195d36710db446a01ce68abf321f7
+timeCreated: 1430407718
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Prefabs/Explosions/FireExplosion.prefab
+  uploadId: 510698

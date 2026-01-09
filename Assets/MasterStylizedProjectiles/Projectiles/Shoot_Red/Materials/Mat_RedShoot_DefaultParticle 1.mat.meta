@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 513321ba9d4d4864f8840a5603c01831
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255608
+  packageName: Master Stylized Projectile
+  packageVersion: 1.0
+  assetPath: Assets/MasterStylizedProjectiles/Projectiles/Shoot_Red/Materials/Mat_RedShoot_DefaultParticle
+    1.mat
+  uploadId: 825804

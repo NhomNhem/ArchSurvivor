@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b8422b3c976a76645bc0c00eb6763981
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255608
+  packageName: Master Stylized Projectile
+  packageVersion: 1.0
+  assetPath: Assets/MasterStylizedProjectiles/Projectiles/Common/Materials/Mat_WindTrails.mat
+  uploadId: 825804

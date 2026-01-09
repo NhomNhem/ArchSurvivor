@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 125bfcb1bb1472940abc52ab0bfe36e8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Demo/Materials/Bricks_trim.mat
+  uploadId: 510698

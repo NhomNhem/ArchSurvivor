@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8e585d35e76163042a7e3a5bb6149111
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255608
+  packageName: Master Stylized Projectile
+  packageVersion: 1.0
+  assetPath: Assets/MasterStylizedProjectiles/Projectiles/Missile/Materials/Mat_FireExplosion_GroundCrack2
+    1.mat
+  uploadId: 825804

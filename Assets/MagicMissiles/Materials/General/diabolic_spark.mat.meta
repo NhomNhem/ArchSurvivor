@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dac655fac6e9377439e95bae5139af1a
+timeCreated: 1428768904
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Materials/General/diabolic_spark.mat
+  uploadId: 510698

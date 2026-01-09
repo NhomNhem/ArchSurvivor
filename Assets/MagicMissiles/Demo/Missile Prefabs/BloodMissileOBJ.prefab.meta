@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3d67ae4cfbb73c2418210a9180209c21
+timeCreated: 1430592089
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Demo/Missile Prefabs/BloodMissileOBJ.prefab
+  uploadId: 510698

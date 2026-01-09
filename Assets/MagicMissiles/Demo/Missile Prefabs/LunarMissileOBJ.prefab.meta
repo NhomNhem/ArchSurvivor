@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ebfb14a58fe5cf8489b7806be2512848
+timeCreated: 1428609236
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Demo/Missile Prefabs/LunarMissileOBJ.prefab
+  uploadId: 510698

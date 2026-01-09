@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c4369a5d7779c354a845da3b22b8cd7e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255608
+  packageName: Master Stylized Projectile
+  packageVersion: 1.0
+  assetPath: Assets/MasterStylizedProjectiles/Projectiles/OrangeSparkleShoot/Materials/Mat_OrangeShoot_DefaultParticle
+    1.mat
+  uploadId: 825804

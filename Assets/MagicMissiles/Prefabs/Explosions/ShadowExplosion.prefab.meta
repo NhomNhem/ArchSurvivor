@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4d06165aba9df814ca6872a896bf0538
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Prefabs/Explosions/ShadowExplosion.prefab
+  uploadId: 510698

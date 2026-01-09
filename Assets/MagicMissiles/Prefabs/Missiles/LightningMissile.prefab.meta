@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: beaa5f73fcbafe548806929b0f70b254
+timeCreated: 1429662434
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Prefabs/Missiles/LightningMissile.prefab
+  uploadId: 510698

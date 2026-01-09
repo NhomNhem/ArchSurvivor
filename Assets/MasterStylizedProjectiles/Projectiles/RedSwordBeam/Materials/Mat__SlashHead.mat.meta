@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e2db1e83ab25a2946a538d7968453f41
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255608
+  packageName: Master Stylized Projectile
+  packageVersion: 1.0
+  assetPath: Assets/MasterStylizedProjectiles/Projectiles/RedSwordBeam/Materials/Mat__SlashHead.mat
+  uploadId: 825804

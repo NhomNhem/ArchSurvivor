@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e4614c6ab7800c540897b4317e38eacd
+timeCreated: 1430579106
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Materials/General/faerie_blast.mat
+  uploadId: 510698

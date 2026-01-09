@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 270219245082c58498117d4e31eb278e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255608
+  packageName: Master Stylized Projectile
+  packageVersion: 1.0
+  assetPath: Assets/MasterStylizedProjectiles/Projectiles/TornadoShoots/Prefabs/Par_TornadoContinous.prefab
+  uploadId: 825804

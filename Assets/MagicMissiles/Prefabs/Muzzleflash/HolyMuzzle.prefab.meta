@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ecd3bd9a8ebec0642896b8a1c6c535c4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Prefabs/Muzzleflash/HolyMuzzle.prefab
+  uploadId: 510698

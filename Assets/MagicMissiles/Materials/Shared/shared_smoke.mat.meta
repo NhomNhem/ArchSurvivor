@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: feecc00f6b89fbe478bc5c3f54ae4b17
+timeCreated: 1430921824
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Materials/Shared/shared_smoke.mat
+  uploadId: 510698

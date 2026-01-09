@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b48c4829fc34d0849b146d47b0163d64
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Prefabs/Muzzleflash/CosmicMuzzle.prefab
+  uploadId: 510698

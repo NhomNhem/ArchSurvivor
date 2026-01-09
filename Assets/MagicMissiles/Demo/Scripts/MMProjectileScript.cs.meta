@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 6444b84331c1de3408547645830e74de
+timeCreated: 1494940308
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Demo/Scripts/MMProjectileScript.cs
+  uploadId: 510698

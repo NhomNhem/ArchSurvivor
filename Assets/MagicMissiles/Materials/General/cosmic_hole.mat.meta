@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 921415fcbdfce2c43a5577ffdac19f94
+timeCreated: 1429900543
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Materials/General/cosmic_hole.mat
+  uploadId: 510698

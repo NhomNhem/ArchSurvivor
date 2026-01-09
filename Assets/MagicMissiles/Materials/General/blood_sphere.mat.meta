@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2a3cdb368d329c54fa868e185127e179
+timeCreated: 1430591256
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Materials/General/blood_sphere.mat
+  uploadId: 510698

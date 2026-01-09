@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 42c1c59a8669173439761f76b7b0dbc3
+timeCreated: 1430574337
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Materials/General/death_splatter.mat
+  uploadId: 510698

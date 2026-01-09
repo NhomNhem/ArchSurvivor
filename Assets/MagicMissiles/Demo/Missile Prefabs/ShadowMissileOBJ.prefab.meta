@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fe9565e5cb89ec5489132f20f9519424
+timeCreated: 1430579429
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Demo/Missile Prefabs/ShadowMissileOBJ.prefab
+  uploadId: 510698

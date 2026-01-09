@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: aebddd5b1ca417341bf170da48195c34
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274847
+  packageName: UIFX - Glow Filter
+  packageVersion: 1.9.10
+  assetPath: Assets/ChocDino/UIFX/Runtime/Shaders/Resources/Blur/BoxBlur-Reference.shader
+  uploadId: 833966

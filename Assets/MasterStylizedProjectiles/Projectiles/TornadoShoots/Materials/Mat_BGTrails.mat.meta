@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6a79e361489b2204ba3bfcedf4a43fdd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255608
+  packageName: Master Stylized Projectile
+  packageVersion: 1.0
+  assetPath: Assets/MasterStylizedProjectiles/Projectiles/TornadoShoots/Materials/Mat_BGTrails.mat
+  uploadId: 825804

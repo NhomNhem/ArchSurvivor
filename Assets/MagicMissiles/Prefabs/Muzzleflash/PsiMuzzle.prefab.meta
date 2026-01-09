@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 002264bc2f840c345a85249f8aea4018
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Prefabs/Muzzleflash/PsiMuzzle.prefab
+  uploadId: 510698

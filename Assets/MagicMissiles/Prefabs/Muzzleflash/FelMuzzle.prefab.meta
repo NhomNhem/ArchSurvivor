@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 51d5c6cb9e42a934e853ff8dd344537c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Prefabs/Muzzleflash/FelMuzzle.prefab
+  uploadId: 510698

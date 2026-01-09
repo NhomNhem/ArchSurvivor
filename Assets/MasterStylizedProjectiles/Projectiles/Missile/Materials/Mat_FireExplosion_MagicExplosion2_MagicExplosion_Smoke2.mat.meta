@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 53234722190c2964880d0e98c858e4e9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255608
+  packageName: Master Stylized Projectile
+  packageVersion: 1.0
+  assetPath: Assets/MasterStylizedProjectiles/Projectiles/Missile/Materials/Mat_FireExplosion_MagicExplosion2_MagicExplosion_Smoke2.mat
+  uploadId: 825804

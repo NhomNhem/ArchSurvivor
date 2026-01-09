@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ac9aafa4115c2784085b652d785043f6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Demo/Scenes/Scene Settings/magic_missiles_circlesSettings.lighting
+  uploadId: 510698

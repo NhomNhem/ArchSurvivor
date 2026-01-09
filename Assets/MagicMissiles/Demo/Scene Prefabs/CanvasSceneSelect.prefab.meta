@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8d0570c18db782449b9b3ddec81610c0
+timeCreated: 1495129882
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Demo/Scene Prefabs/CanvasSceneSelect.prefab
+  uploadId: 510698

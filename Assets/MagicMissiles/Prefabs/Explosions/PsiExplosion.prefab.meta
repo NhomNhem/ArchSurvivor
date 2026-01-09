@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 88b66e4a06f926644bed417e7086c0d2
+timeCreated: 1430325501
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Prefabs/Explosions/PsiExplosion.prefab
+  uploadId: 510698

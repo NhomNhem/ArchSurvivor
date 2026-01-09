@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 756d37cf3b5f8964cae715a9e54bd4e9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255608
+  packageName: Master Stylized Projectile
+  packageVersion: 1.0
+  assetPath: Assets/MasterStylizedProjectiles/Projectiles/BlueShoot/Prefabs/Par_BlueShoot_Bullet.prefab
+  uploadId: 825804

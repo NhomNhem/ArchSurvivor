@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 10d437a2b4f5a5544929f4811423c51e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274847
+  packageName: UIFX - Glow Filter
+  packageVersion: 1.9.10
+  assetPath: Assets/ChocDino/UIFX/Demos/Scripts/Common/AutoTransformer.cs
+  uploadId: 833966

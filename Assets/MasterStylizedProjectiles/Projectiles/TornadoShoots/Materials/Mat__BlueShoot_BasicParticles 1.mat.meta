@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 07f96f22bdce271419c5da34181b021b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255608
+  packageName: Master Stylized Projectile
+  packageVersion: 1.0
+  assetPath: Assets/MasterStylizedProjectiles/Projectiles/TornadoShoots/Materials/Mat__BlueShoot_BasicParticles
+    1.mat
+  uploadId: 825804

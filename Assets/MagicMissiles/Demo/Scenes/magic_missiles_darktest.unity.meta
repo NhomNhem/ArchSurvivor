@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 05e354028f8912b4a98ec174c0496c17
+timeCreated: 1430850245
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Demo/Scenes/magic_missiles_darktest.unity
+  uploadId: 510698

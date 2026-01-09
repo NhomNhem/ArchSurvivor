@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1edd2b763e123304d93c9cc80445802c
+timeCreated: 1430579324
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Prefabs/Missiles/FaerieMissile.prefab
+  uploadId: 510698

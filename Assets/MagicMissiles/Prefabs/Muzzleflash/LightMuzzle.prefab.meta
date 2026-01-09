@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f6202552324c83d488a03cc43f3da76d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Prefabs/Muzzleflash/LightMuzzle.prefab
+  uploadId: 510698

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 84cfd753d2f9b564983f582aea24ceee
+timeCreated: 1430323869
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Prefabs/Missiles/PsiMissile.prefab
+  uploadId: 510698

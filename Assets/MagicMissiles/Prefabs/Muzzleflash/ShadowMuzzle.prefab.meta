@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: da245e8e1bf84a64396fa6abc631dc71
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Prefabs/Muzzleflash/ShadowMuzzle.prefab
+  uploadId: 510698

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3879b0761f1a62d47b65acb09446d989
+timeCreated: 1430933921
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Prefabs/AreaEffect/AOE_Healing2.prefab
+  uploadId: 510698

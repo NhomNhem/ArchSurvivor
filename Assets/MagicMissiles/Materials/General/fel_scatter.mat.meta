@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 56b0ab9f82a78f346aed2ebb8e3cebf1
+timeCreated: 1428947794
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Materials/General/fel_scatter.mat
+  uploadId: 510698

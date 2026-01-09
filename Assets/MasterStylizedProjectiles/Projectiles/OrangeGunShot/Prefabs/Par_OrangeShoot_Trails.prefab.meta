@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d84d429805ac1034582c6b1c54b62440
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255608
+  packageName: Master Stylized Projectile
+  packageVersion: 1.0
+  assetPath: Assets/MasterStylizedProjectiles/Projectiles/OrangeGunShot/Prefabs/Par_OrangeShoot_Trails.prefab
+  uploadId: 825804

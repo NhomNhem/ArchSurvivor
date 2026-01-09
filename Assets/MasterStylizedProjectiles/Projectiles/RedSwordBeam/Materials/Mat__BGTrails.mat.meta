@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c02db8c88cf0c3841b133093359c481a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255608
+  packageName: Master Stylized Projectile
+  packageVersion: 1.0
+  assetPath: Assets/MasterStylizedProjectiles/Projectiles/RedSwordBeam/Materials/Mat__BGTrails.mat
+  uploadId: 825804

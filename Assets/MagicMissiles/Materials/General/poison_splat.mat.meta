@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7ce16ab20b2010f48863119dcdeb5ecd
+timeCreated: 1431106241
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Materials/General/poison_splat.mat
+  uploadId: 510698

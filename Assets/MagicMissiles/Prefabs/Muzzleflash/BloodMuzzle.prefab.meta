@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5bca1de2365c0b24c82ae8cc39486b49
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Prefabs/Muzzleflash/BloodMuzzle.prefab
+  uploadId: 510698

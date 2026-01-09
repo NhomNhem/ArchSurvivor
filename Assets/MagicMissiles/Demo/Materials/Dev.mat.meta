@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cd7bcbfed463d534b8db377460c21376
+timeCreated: 1429797237
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Demo/Materials/Dev.mat
+  uploadId: 510698

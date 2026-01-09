@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c3d4000d8de22ce43a2dc8d17e9d9984
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255608
+  packageName: Master Stylized Projectile
+  packageVersion: 1.0
+  assetPath: Assets/MasterStylizedProjectiles/Projectiles/Shoot_Red/Materials/Mat_RedShoot_HorizontalFlare
+    2.mat
+  uploadId: 825804

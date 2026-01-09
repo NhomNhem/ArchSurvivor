@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a2054af2871b6db42bc31cc5d38b751b
+timeCreated: 1430490306
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Materials/General/snow.mat
+  uploadId: 510698

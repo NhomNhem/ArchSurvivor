@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8b6ea990103a97a47b33493fba5c2e6f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255608
+  packageName: Master Stylized Projectile
+  packageVersion: 1.0
+  assetPath: Assets/MasterStylizedProjectiles/Projectiles/Shuriken/Prefabs/Par_ShurikenMuzzle.prefab
+  uploadId: 825804

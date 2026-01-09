@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 26bee6af42a0e9f44b2aa8742e6bbbbd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255608
+  packageName: Master Stylized Projectile
+  packageVersion: 1.0
+  assetPath: Assets/MasterStylizedProjectiles/Projectiles/RedSwordBeam/Prefabs/Par_RedSwordBeam.prefab
+  uploadId: 825804

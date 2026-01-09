@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 54b294daacc49dc499e0a89af27c1106
+timeCreated: 1428944967
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Materials/General/fel_spark.mat
+  uploadId: 510698

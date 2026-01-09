@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6843926defe641e58b9e0ea8fdc4c9c5
+timeCreated: 1573560057
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260493
+  packageName: RPG Monster BUNDLE PBR
+  packageVersion: 1.0
+  assetPath: Assets/RPGMonsterBundlePBR/RPGMonsterWave01PBR/Animators/Slime.controller
+  uploadId: 681971

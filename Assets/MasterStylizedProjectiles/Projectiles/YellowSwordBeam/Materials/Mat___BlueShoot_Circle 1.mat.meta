@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d1c3fc10d50363348b6ad58ed27e2aa3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255608
+  packageName: Master Stylized Projectile
+  packageVersion: 1.0
+  assetPath: Assets/MasterStylizedProjectiles/Projectiles/YellowSwordBeam/Materials/Mat___BlueShoot_Circle
+    1.mat
+  uploadId: 825804

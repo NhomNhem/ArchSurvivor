@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 540f14c89a42c8c4babe97f37652a8a2
+timeCreated: 1430490330
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Materials/General/frost_sphere.mat
+  uploadId: 510698

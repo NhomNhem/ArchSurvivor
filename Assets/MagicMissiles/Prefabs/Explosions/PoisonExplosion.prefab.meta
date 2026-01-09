@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c0be5f38183993a49b5024044b27c0d4
+timeCreated: 1431107391
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Prefabs/Explosions/PoisonExplosion.prefab
+  uploadId: 510698

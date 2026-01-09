@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a310af96239d00640aa3d0f4a761de5b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255608
+  packageName: Master Stylized Projectile
+  packageVersion: 1.0
+  assetPath: Assets/MasterStylizedProjectiles/Projectiles/YellowSwordBeam/Materials/Mat___RedShoot_TestExplosion.mat
+  uploadId: 825804

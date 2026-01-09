@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 802a1fd4a925d2d4dba25f5d36eda54c
+timeCreated: 1430570620
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Demo/Missile Prefabs/LifeMissileOBJ.prefab
+  uploadId: 510698

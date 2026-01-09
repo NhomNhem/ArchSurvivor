@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 783ef22fa4d73724087d7cdecefbecbc
+timeCreated: 1430271896
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Demo/Missile Prefabs/HolyMissileOBJ.prefab
+  uploadId: 510698

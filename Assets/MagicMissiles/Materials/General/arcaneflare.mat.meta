@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 469a601a336826644a1cd98acff33621
+timeCreated: 1430233750
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Materials/General/arcaneflare.mat
+  uploadId: 510698

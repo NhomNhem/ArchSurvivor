@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3ed2fe74720a0c14c827fe13c40e69ad
+timeCreated: 1430960721
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Prefabs/Missiles/SlimeMissile.prefab
+  uploadId: 510698

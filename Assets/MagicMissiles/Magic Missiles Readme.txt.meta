@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 684f722b268e3cd488b384bcd19fad40
+timeCreated: 1494939619
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Magic Missiles Readme.txt
+  uploadId: 510698

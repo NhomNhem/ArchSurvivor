@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 75dbc1b0558ed4f448b44fbcbee49f48
+timeCreated: 1430847231
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Materials/Circles/circle05.mat
+  uploadId: 510698

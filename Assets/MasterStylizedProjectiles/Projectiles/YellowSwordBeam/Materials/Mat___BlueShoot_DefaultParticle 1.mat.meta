@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2a449f6d7a506434c8c4c96206d2fc7a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255608
+  packageName: Master Stylized Projectile
+  packageVersion: 1.0
+  assetPath: Assets/MasterStylizedProjectiles/Projectiles/YellowSwordBeam/Materials/Mat___BlueShoot_DefaultParticle
+    1.mat
+  uploadId: 825804

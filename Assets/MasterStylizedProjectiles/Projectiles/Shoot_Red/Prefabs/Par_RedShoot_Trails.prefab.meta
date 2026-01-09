@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a25884f047c67bb4091b5cfb8100aef0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255608
+  packageName: Master Stylized Projectile
+  packageVersion: 1.0
+  assetPath: Assets/MasterStylizedProjectiles/Projectiles/Shoot_Red/Prefabs/Par_RedShoot_Trails.prefab
+  uploadId: 825804

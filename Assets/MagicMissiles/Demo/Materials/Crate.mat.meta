@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b787ec22248f83544b34eebd8527bfd1
+timeCreated: 1495135700
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Demo/Materials/Crate.mat
+  uploadId: 510698

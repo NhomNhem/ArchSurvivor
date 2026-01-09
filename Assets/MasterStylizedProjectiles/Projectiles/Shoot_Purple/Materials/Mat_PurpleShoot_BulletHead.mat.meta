@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e59a0d8c1faa77d4ab29f2c316a27d0d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255608
+  packageName: Master Stylized Projectile
+  packageVersion: 1.0
+  assetPath: Assets/MasterStylizedProjectiles/Projectiles/Shoot_Purple/Materials/Mat_PurpleShoot_BulletHead.mat
+  uploadId: 825804

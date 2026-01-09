@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ff5f4f2480d172941b186031a3070a4c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Prefabs/Muzzleflash/WaterMuzzle.prefab
+  uploadId: 510698

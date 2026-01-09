@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: aee5b2b81aef2d345a9b431794190ffe
+timeCreated: 1428948280
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Prefabs/Explosions/FelExplosion.prefab
+  uploadId: 510698

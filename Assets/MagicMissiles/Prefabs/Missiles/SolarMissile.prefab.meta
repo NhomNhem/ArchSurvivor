@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c1c26bd02a731014cbe6cf509046b51b
+timeCreated: 1428683379
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Prefabs/Missiles/SolarMissile.prefab
+  uploadId: 510698

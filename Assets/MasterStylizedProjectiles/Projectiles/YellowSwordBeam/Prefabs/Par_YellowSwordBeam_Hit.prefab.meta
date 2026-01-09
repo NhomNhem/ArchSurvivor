@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d4be339cf2250de4696c7b598a6d3fa9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255608
+  packageName: Master Stylized Projectile
+  packageVersion: 1.0
+  assetPath: Assets/MasterStylizedProjectiles/Projectiles/YellowSwordBeam/Prefabs/Par_YellowSwordBeam_Hit.prefab
+  uploadId: 825804

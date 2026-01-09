@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0484c83465f0a8f4da7c85b6943b139d
+timeCreated: 1430521546
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Materials/General/healing_orb.mat
+  uploadId: 510698

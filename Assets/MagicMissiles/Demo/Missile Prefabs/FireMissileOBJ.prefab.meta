@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 004089b9e7f16f34496cb6b401099750
+timeCreated: 1430404106
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Demo/Missile Prefabs/FireMissileOBJ.prefab
+  uploadId: 510698

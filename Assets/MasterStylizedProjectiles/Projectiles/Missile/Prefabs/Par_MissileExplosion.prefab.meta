@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 08d33953409183b44ad66f3e52b7f5ea
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255608
+  packageName: Master Stylized Projectile
+  packageVersion: 1.0
+  assetPath: Assets/MasterStylizedProjectiles/Projectiles/Missile/Prefabs/Par_MissileExplosion.prefab
+  uploadId: 825804

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 61825c75fe58d3f458e541f962647490
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Prefabs/Muzzleflash/LunarMuzzle.prefab
+  uploadId: 510698

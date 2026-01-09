@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 81f3adfe95b01bc4cbbe1d04a4555d6c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255608
+  packageName: Master Stylized Projectile
+  packageVersion: 1.0
+  assetPath: Assets/MasterStylizedProjectiles/Projectiles/TornadoShoots/Materials/Mat__BlueShoot_Circle
+    3.mat
+  uploadId: 825804

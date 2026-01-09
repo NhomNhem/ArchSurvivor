@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2002bfac6c0585742a5f089197b96f89
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255608
+  packageName: Master Stylized Projectile
+  packageVersion: 1.0
+  assetPath: Assets/MasterStylizedProjectiles/Projectiles/OrangeSparkleShoot/Materials/Mat_OrangeShoot_Circle
+    3.mat
+  uploadId: 825804

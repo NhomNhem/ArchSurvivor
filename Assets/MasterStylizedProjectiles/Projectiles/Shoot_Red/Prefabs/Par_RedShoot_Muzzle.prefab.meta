@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6a7f24107b6dadb4880beaad47b31192
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255608
+  packageName: Master Stylized Projectile
+  packageVersion: 1.0
+  assetPath: Assets/MasterStylizedProjectiles/Projectiles/Shoot_Red/Prefabs/Par_RedShoot_Muzzle.prefab
+  uploadId: 825804

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 770d2457b8d87df4f8d87bbd370f31be
+timeCreated: 1430750264
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Demo/Missile Prefabs/SpectralMissileOBJ.prefab
+  uploadId: 510698

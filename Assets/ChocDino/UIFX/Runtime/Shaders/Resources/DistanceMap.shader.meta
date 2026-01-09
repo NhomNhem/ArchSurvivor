@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b562bec00a9a3244f99d5449f6ce4ab6
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274847
+  packageName: UIFX - Glow Filter
+  packageVersion: 1.9.10
+  assetPath: Assets/ChocDino/UIFX/Runtime/Shaders/Resources/DistanceMap.shader
+  uploadId: 833966

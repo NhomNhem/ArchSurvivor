@@ -1,0 +1,6 @@
+No thirdparty code, scripts or assets are used by the UIFX runtime.
+
+Demo scenes use the following assets and licenses:
+
+RobotoCondensed-Light.ttf - SIL OPEN FONT LICENSE Version 1.1 - see OTF.txt
+RobotoCondensed-SemiBold.ttf - SIL OPEN FONT LICENSE Version 1.1 - see OTF.txt

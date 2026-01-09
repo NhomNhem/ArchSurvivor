@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b72e7c982f4c9c345a174b6910ea5841
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255608
+  packageName: Master Stylized Projectile
+  packageVersion: 1.0
+  assetPath: Assets/MasterStylizedProjectiles/Projectiles/OrangeGunShot/Prefabs/Par_OrangeShoot_Hit.prefab
+  uploadId: 825804

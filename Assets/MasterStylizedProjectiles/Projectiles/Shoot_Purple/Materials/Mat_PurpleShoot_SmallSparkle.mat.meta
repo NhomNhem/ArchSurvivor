@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a5640a54e614a484dafe4cb9a2ba21f4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255608
+  packageName: Master Stylized Projectile
+  packageVersion: 1.0
+  assetPath: Assets/MasterStylizedProjectiles/Projectiles/Shoot_Purple/Materials/Mat_PurpleShoot_SmallSparkle.mat
+  uploadId: 825804

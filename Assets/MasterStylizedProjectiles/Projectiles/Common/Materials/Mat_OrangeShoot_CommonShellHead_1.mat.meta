@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b0b532f5d40d86844a49f8288b6c0d20
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255608
+  packageName: Master Stylized Projectile
+  packageVersion: 1.0
+  assetPath: Assets/MasterStylizedProjectiles/Projectiles/Common/Materials/Mat_OrangeShoot_CommonShellHead_1.mat
+  uploadId: 825804

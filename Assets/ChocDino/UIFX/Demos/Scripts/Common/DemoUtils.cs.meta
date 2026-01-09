@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1b2cf4637976fc749979a60e5f60fd2f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274847
+  packageName: UIFX - Glow Filter
+  packageVersion: 1.9.10
+  assetPath: Assets/ChocDino/UIFX/Demos/Scripts/Common/DemoUtils.cs
+  uploadId: 833966

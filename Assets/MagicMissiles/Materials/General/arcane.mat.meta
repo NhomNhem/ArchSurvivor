@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 745502b0418d6e045a8d981a7a0feaf8
+timeCreated: 1430232973
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Materials/General/arcane.mat
+  uploadId: 510698

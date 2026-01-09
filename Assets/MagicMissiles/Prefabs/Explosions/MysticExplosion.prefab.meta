@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e18cdba8643cd48469095289bd7ea12b
+timeCreated: 1430596311
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Prefabs/Explosions/MysticExplosion.prefab
+  uploadId: 510698

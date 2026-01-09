@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8ec49662dd5427b4b9afe7846ffce156
+timeCreated: 1431106658
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Demo/Missile Prefabs/PoisonMissileOBJ.prefab
+  uploadId: 510698

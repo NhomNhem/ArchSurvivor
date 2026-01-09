@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5d9891fbba8a6dd4d853dd764a2af62f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Materials/General/spectral2.mat
+  uploadId: 510698

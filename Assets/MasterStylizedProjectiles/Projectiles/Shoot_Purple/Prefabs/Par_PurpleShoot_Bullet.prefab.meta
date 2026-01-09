@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e2b635f69d498db438acfebe4d14f57b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255608
+  packageName: Master Stylized Projectile
+  packageVersion: 1.0
+  assetPath: Assets/MasterStylizedProjectiles/Projectiles/Shoot_Purple/Prefabs/Par_PurpleShoot_Bullet.prefab
+  uploadId: 825804

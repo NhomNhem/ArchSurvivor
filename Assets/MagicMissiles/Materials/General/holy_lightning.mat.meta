@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 46ac8b8252d174945adcc8fbf3690e09
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Materials/General/holy_lightning.mat
+  uploadId: 510698

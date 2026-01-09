@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d4135175f6584a742ac3889638a6a493
+timeCreated: 1428607969
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Demo/Materials/Cobblestone.mat
+  uploadId: 510698

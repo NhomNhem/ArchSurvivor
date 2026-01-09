@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a3276196d29b9f64baafce7a910fbb51
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255608
+  packageName: Master Stylized Projectile
+  packageVersion: 1.0
+  assetPath: Assets/MasterStylizedProjectiles/Projectiles/OrangeGunShot/Materials/Mat_OrangeShoot_BasicParticles
+    2.mat
+  uploadId: 825804

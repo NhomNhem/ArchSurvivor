@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e834fda92c5b12344be7e437454d4060
+timeCreated: 1430574178
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Materials/General/death_tentacles.mat
+  uploadId: 510698

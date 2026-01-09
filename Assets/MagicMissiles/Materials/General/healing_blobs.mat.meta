@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0711085105f8aa74ca7db381a2718609
+timeCreated: 1430521504
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Materials/General/healing_blobs.mat
+  uploadId: 510698

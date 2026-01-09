@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1ff3c49a015244ac813f5e8f956ef136
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260493
+  packageName: RPG Monster BUNDLE PBR
+  packageVersion: 1.0
+  assetPath: Assets/RPGMonsterBundlePBR/RPGMonsterWave02PBR/Animators/WormMonster.controller
+  uploadId: 681971

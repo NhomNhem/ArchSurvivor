@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0a65bc408cb86154995d996402c2c71f
+timeCreated: 1430323369
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36250
+  packageName: Magic Missiles
+  packageVersion: 1.3
+  assetPath: Assets/MagicMissiles/Materials/General/psi_twirl.mat
+  uploadId: 510698

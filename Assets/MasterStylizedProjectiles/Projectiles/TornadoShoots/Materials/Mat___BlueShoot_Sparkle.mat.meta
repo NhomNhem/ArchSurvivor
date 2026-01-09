@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e94c0208fdf9aa648b2cd85e19e4fc69
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255608
+  packageName: Master Stylized Projectile
+  packageVersion: 1.0
+  assetPath: Assets/MasterStylizedProjectiles/Projectiles/TornadoShoots/Materials/Mat___BlueShoot_Sparkle.mat
+  uploadId: 825804

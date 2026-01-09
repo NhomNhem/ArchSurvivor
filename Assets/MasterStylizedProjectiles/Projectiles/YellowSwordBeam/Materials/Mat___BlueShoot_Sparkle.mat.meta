@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b4399bb913606d34ead98ebc9df2ec51
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255608
+  packageName: Master Stylized Projectile
+  packageVersion: 1.0
+  assetPath: Assets/MasterStylizedProjectiles/Projectiles/YellowSwordBeam/Materials/Mat___BlueShoot_Sparkle.mat
+  uploadId: 825804
