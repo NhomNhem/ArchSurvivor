@@ -14,9 +14,12 @@ namespace _ArchSurvivor.Installers {
         [SerializeField] private PlayerAnimation _playerAnimation;
 
         protected override void Configure(IContainerBuilder builder) {
+            // Register Components from scene
             if (_joystickInputAdapter != null) builder.RegisterComponent(_joystickInputAdapter);
             if (_playerMovement != null) builder.RegisterComponent(_playerMovement);
             if (_playerAnimation != null) builder.RegisterComponent(_playerAnimation);
+
+            
         }
     }
 }

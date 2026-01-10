@@ -55,3 +55,4 @@ MonoBehaviour:
     _buildIndex: 0
   audioMixer: {fileID: 0}
   uiRootPrefab: {fileID: 0}
+  playerPrefab: {fileID: 4480233580569766904, guid: 64f06efdd960a7941a28404826b07ec7, type: 3}

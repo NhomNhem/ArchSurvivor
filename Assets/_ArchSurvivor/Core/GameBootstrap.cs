@@ -9,6 +9,7 @@ using _ArchSurvivor.Core.Interfaces;
 using _ArchSurvivor.Core.UI;
 using _ArchSurvivor.Core.Services.Data;
 using _ArchSurvivor.Common.Utilities;
+using _ArchSurvivor.Features.Player.Logic;
 using R3;
 using UnityEngine.SceneManagement;
 
@@ -20,14 +21,19 @@ namespace _ArchSurvivor.Core {
         private readonly ISaveService _saveService;
         private readonly IAudioService _audioService;
         private readonly IDataProvider _dataProvider;
+        private readonly CharacterFactory _characterFactory;
         private readonly UIRoot _uiRoot;
-
-        public GameBootstrap(ISaveService saveService, IAudioService audioService, IDataProvider dataProvider, string gameplayScene, UIRoot uiRoot = null) {
+        private GameObject _playerPrefab;
+        
+        public GameBootstrap(ISaveService saveService, IAudioService audioService, IDataProvider dataProvider,
+            string gameplayScene, CharacterFactory characterFactory,GameObject playerPrefab, UIRoot uiRoot = null) {
             _saveService = saveService;
             _audioService = audioService;
             _dataProvider = dataProvider;
             _uiRoot = uiRoot;
             _gameplayScene = gameplayScene;
+            _characterFactory = characterFactory;
+            _playerPrefab = playerPrefab;
         }
 
         public async UniTask StartAsync(CancellationToken cancellation) {
@@ -50,8 +56,10 @@ namespace _ArchSurvivor.Core {
             
             GameLog.Info("Initialized. Ready for Battle!");
             
-            SceneManager.LoadScene(_gameplayScene);
+            await SceneManager.LoadSceneAsync(_gameplayScene);
 
+            _characterFactory.CreateCharacter("CHR_01", _playerPrefab, Vector3.zero);
+            
 #if UNITY_EDITOR
             // Auto-load Title Scene or similar if needed in dev
 #endif

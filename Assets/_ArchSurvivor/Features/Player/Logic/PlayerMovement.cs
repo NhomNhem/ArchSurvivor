@@ -1,5 +1,7 @@
 ﻿using System;
 using _ArchSurvivor.Core.Interfaces;
+using _ArchSurvivor.Features.Player.Interfaces;
+using _ArchSurvivor.Features.Player.KCC;
 using R3;
 using UnityEngine;
 using VContainer;
@@ -12,15 +14,27 @@ namespace _ArchSurvivor.Features.Player.Logic {
 
         private ArchHeroController _heroController;
         private IInputReader _inputReader;
+        private IPlayerProvider _playerProvider;
 
         [Inject]
-        public void Construct(IInputReader inputReader) => _inputReader = inputReader;
+        public void Construct(IInputReader inputReader, IPlayerProvider playerProvider) {
+            _inputReader = inputReader;
+            _playerProvider = playerProvider;
+        }
 
         private void Awake() => _heroController = GetComponent<ArchHeroController>();
 
         private void Start() {
             Observable.EveryUpdate()
                 .Subscribe(_ => HandleMovement())
+                .RegisterTo(destroyCancellationToken);
+            
+            _playerProvider.CurrentHero
+                .Where(p => p != null)
+                .Subscribe(player => {
+                    _heroController = player;
+                    Debug.Log("PlayerMovement: HeroController assigned from PlayerProvider.");
+                })
                 .RegisterTo(destroyCancellationToken);
         }
 
@@ -41,8 +55,9 @@ namespace _ArchSurvivor.Features.Player.Logic {
                 LookVector = lookVector
             };
 
-            // Set specific speed from settings if needed
-            _heroController.MaxStableMoveSpeed = _moveSpeed;
+            // Senior Tip: Chúng ta không ghi đè tốc độ từ đây nữa. 
+            // Tốc độ đã được nạp từ Google Sheets vào ArchHeroController thông qua InitArgs rồi.
+            // _heroController.MaxStableMoveSpeed = _moveSpeed; // Dòng này gây lỗi vì biến đã bị xóa
             _heroController.OrientationSharpness = _rotationSpeed;
 
             _heroController.SetInputs(ref characterInputs);
