@@ -10,20 +10,31 @@ namespace _ArchSurvivor.Core.Services.Data {
     public class CharacterDataRow : SheetRow {
         // --- Raw Data (Cẩn thận: Đây là dữ liệu thô từ Sheets) ---
         [Preserve] public string Name { get; set; }
+        [Preserve] public string Role { get; set; }
         [Preserve] public string MoveSpeed { get; set; } 
         [Preserve] public string RotationSpeed { get; set; }
         [Preserve] public string AttackRange { get; set; }
         [Preserve] public string AttackSpeed { get; set; }
-        [Preserve] public string MaxHP { get; set; }
+        [Preserve] public string BaseHP { get; set; }
+        [Preserve] public string BaseDef { get; set; }
+        [Preserve] public string BaseDmg { get; set; }
+        [Preserve] public string BaseCritRate { get; set; }
+        [Preserve] public string BaseCritDmg { get; set; }
+        [Preserve] public string PickupRange { get; set; }
+        [Preserve] public string PassiveSkill { get; set; }
         [Preserve] public string PrefabName { get; set; }
 
         // --- Validated Data (Dùng cái này trong Gameplay) ---
-        // Tại đây Senior thực hiện ép kiểu và gán giá trị mặc định an toàn
         public float ValMoveSpeed => DataParser.ParseFloat(MoveSpeed, 5f, $"Hero:{Id}/MoveSpeed");
-        public float ValRotationSpeed => DataParser.ParseFloat(RotationSpeed, 10f, $"Hero:{Id}/RotationSpeed");
+        public float ValRotationSpeed => DataParser.ParseFloat(RotationSpeed, 15f, $"Hero:{Id}/RotationSpeed");
         public float ValAttackRange => DataParser.ParseFloat(AttackRange, 2f, $"Hero:{Id}/AttackRange");
         public float ValAttackSpeed => DataParser.ParseFloat(AttackSpeed, 1f, $"Hero:{Id}/AttackSpeed");
-        public float ValMaxHP => DataParser.ParseFloat(MaxHP, 100f, $"Hero:{Id}/MaxHP");
+        public float ValBaseHP => DataParser.ParseFloat(BaseHP, 100f, $"Hero:{Id}/BaseHP");
+        public float ValBaseDef => DataParser.ParseFloat(BaseDef, 0f, $"Hero:{Id}/BaseDef");
+        public float ValBaseDmg => DataParser.ParseFloat(BaseDmg, 10f, $"Hero:{Id}/BaseDmg");
+        public float ValCritRate => DataParser.ParsePercentage(BaseCritRate, 0.05f, $"Hero:{Id}/CritRate");
+        public float ValCritDmg => DataParser.ParsePercentage(BaseCritDmg, 0.5f, $"Hero:{Id}/CritDmg");
+        public float ValPickupRange => DataParser.ParseFloat(PickupRange, 1f, $"Hero:{Id}/PickupRange");
     }
 
     [Preserve] public class CardSheet : Sheet<CardDataRow> { }

@@ -30,7 +30,7 @@ public class ProjectLifetimeScope : LifetimeScope {
         // Register Factories & Services
         builder.Register<CharacterFactory>(Lifetime.Singleton);
         
-        builder.Register<PlayerProvider>(Lifetime.Singleton).As<IPlayerProvider>();
+        builder.Register<HeroProvider>(Lifetime.Singleton).As<IHeroProvider>();
         
         if (audioMixer != null) {
             builder.RegisterInstance(audioMixer);

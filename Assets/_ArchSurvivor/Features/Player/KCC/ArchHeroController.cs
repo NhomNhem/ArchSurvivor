@@ -29,6 +29,8 @@ namespace _ArchSurvivor.Features.Player.KCC {
         private Vector3 _moveInputVector;
         private Vector3 _lookInputVector;
 
+        public CharacterRuntimeData Data => _data;
+
         // Bước 1: Nhận dữ liệu khởi tạo
         protected override void Init(CharacterRuntimeData data) {
             _data = data;

@@ -3,7 +3,7 @@ using UnityEditor.SceneManagement;
 using UnityEngine;
 
 namespace ArchSurvivor.Editor {
-    [InitializeOnLoad]
+    //[InitializeOnLoad]
     public class EditorSceneAutoLoader {
         static EditorSceneAutoLoader() {
             EditorApplication.playModeStateChanged += OnPlayModeStateChanged;

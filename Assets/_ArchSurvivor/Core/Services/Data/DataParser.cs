@@ -25,5 +25,17 @@ namespace _ArchSurvivor.Core.Services.Data {
             GameLog.Error($"[Data Error] Invalid int format: '{raw}' at {context}. Using default: {defaultValue}");
             return defaultValue;
         }
+
+        public static float ParsePercentage(string raw, float defaultValue, string context = "") {
+            if (string.IsNullOrEmpty(raw)) return defaultValue;
+
+            string cleanValue = raw.Replace("%", "").Trim();
+            if (float.TryParse(cleanValue, NumberStyles.Any, CultureInfo.InvariantCulture, out float result)) {
+                return result / 100f;
+            }
+
+            GameLog.Error($"[Data Error] Invalid percentage format: '{raw}' at {context}. Using default: {defaultValue}");
+            return defaultValue;
+        }
     }
 }

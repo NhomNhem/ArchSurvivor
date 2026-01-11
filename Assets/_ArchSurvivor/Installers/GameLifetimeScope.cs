@@ -1,4 +1,5 @@
 ﻿using _ArchSurvivor.Core.Interfaces;
+using _ArchSurvivor.Features.Player.Camera;
 using _ArchSurvivor.Features.Player.Logic;
 using _ArchSurvivor.Features.Player.Visuals;
 using Animancer;
@@ -10,16 +11,16 @@ namespace _ArchSurvivor.Installers {
     public class GameLifetimeScope : LifetimeScope {
         [Header("Scene References")]
         [SerializeField] private JoystickInputAdapter _joystickInputAdapter;
-        [SerializeField] private PlayerMovement _playerMovement;
-        [SerializeField] private PlayerAnimation _playerAnimation;
+        [SerializeField] private HeroMovement heroMovement;
+        [SerializeField] private HeroAnimation heroAnimation;
+        [SerializeField] private HeroCameraFollow heroCameraFollow;
 
         protected override void Configure(IContainerBuilder builder) {
             // Register Components from scene
             if (_joystickInputAdapter != null) builder.RegisterComponent(_joystickInputAdapter);
-            if (_playerMovement != null) builder.RegisterComponent(_playerMovement);
-            if (_playerAnimation != null) builder.RegisterComponent(_playerAnimation);
-
-            
+            if (heroMovement != null) builder.RegisterComponent(heroMovement);
+            if (heroAnimation != null) builder.RegisterComponent(heroAnimation);
+            if (heroCameraFollow != null) builder.RegisterComponent(heroCameraFollow);
         }
     }
 }

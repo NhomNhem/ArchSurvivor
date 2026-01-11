@@ -10,9 +10,11 @@ namespace _ArchSurvivor.Core.Services.Input {
         private readonly InputSystem_Actions _actions;
         private readonly ReactiveProperty<Vector2> _moveDirection = new(Vector2.zero);
         private readonly ReactiveProperty<bool> _isMoving = new(false);
+        private readonly ReactiveProperty<bool> _attackPressed = new(false);
 
         public ReadOnlyReactiveProperty<Vector2> MoveDirection => _moveDirection;
         public ReadOnlyReactiveProperty<bool> IsMoving => _isMoving;
+        public ReadOnlyReactiveProperty<bool> AttackPressed => _attackPressed;
 
         public InputService() {
             _actions = new InputSystem_Actions();
@@ -38,6 +40,10 @@ namespace _ArchSurvivor.Core.Services.Input {
             _isMoving.Value = input != Vector2.zero;
         }
 
+        public void SetAttackInput(bool isPressed) {
+            _attackPressed.Value = isPressed;
+        }
+        
         public void Dispose() {
             _actions.Disable();
             _actions.Dispose();
