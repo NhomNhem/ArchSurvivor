@@ -1,10 +1,11 @@
 ﻿using _ArchSurvivor.Core.Interfaces;
 using _ArchSurvivor.Core.Services.Input;
+using Sisus.Init;
 using UnityEngine;
 using VContainer;
 
 namespace _ArchSurvivor.Features.Player.Logic {
-    public class JoystickInputAdapter : MonoBehaviour {
+    public class JoystickInputAdapter : MonoBehaviour<IInputReader> {
         [Header("Juice Settings")]
         [SerializeField] private RectTransform _directionIndicator;
         [SerializeField] private CanvasGroup _indicatorCanvasGroup;
@@ -14,17 +15,13 @@ namespace _ArchSurvivor.Features.Player.Logic {
 
         private InputService _inputService;
         private IInputReader _inputReader;
-
-        [Inject]
-        public void Construct(IInputReader inputReader) {
-            _inputReader = inputReader;
-            _inputService = inputReader as InputService;
-            
-            if (_inputService == null) {
-                Debug.LogError("JoystickInputAdapter requires InputService as IInputReader.");
-            }
+        
+        protected override void Init(IInputReader dependency) {
+            _inputReader = dependency;
+            _inputService = dependency as InputService;
         }
-
+        
+        
         private void Start() {
             if (_joystickUI == null)
                 _joystickUI = GetComponentInChildren<VariableJoystick>();
@@ -66,5 +63,7 @@ namespace _ArchSurvivor.Features.Player.Logic {
         private void OnDestroy() {
             // Logic is now managed by InputService
         }
+
+       
     }
 }

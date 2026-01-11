@@ -631,7 +631,7 @@ MonoBehaviour:
   activationPositionVertical: 0
   joystickSize: 1
   joystickRadius: 1.2
-  positionHorizontal: 5
+  positionHorizontal: 4.9999976
   positionVertical: 20
   relativeTransform: {fileID: 0}
   centerAngle: 0
@@ -640,7 +640,7 @@ MonoBehaviour:
   repositionConstraintMin: {x: 0, y: 0}
   repositionConstraintMax: {x: 100, y: 100}
   applyConstraintDuringOverride: 0
-  uniqueId: b8f6f6b7
+  uniqueId: a537d7ae
   saveAsPlayerPrefs: 1
   inputHandling: 0
   dynamicPositioning: 0

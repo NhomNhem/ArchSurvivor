@@ -31,6 +31,7 @@ public class ProjectLifetimeScope : LifetimeScope {
         builder.Register<CharacterFactory>(Lifetime.Singleton);
         
         builder.Register<HeroProvider>(Lifetime.Singleton).As<IHeroProvider>();
+        builder.RegisterEntryPoint<VContainerSisusBridge>();
         
         if (audioMixer != null) {
             builder.RegisterInstance(audioMixer);

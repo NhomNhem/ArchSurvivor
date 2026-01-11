@@ -263,7 +263,7 @@ MonoBehaviour:
   repositionConstraintMin: {x: 0, y: 0}
   repositionConstraintMax: {x: 100, y: 100}
   applyConstraintDuringOverride: 0
-  uniqueId: 2d022318
+  uniqueId: 7012df4b
   saveAsPlayerPrefs: 1
   inputHandling: 0
   dynamicPositioning: 0

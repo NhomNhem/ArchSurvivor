@@ -11,5 +11,12 @@ namespace _ArchSurvivor.Common {
             public const string MainMenuMusic = "BGM_MainMenu";
             public const string DefaultClickSFX = "SFX_Click";
         }
+        
+        public static class ArchSurvivalTagName {
+            public const string Player = "Player";
+            public const string Enemy = "Enemy";
+            public const string NPC = "NPC";
+            public const string Item = "Item";
+        }
     }
 }

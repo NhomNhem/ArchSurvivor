@@ -1,5 +1,5 @@
 ﻿using System;
-using _ArchSurvivor.Core.Defination;
+using _ArchSurvivor.Common;
 using _ArchSurvivor.Core.Interfaces;
 using _ArchSurvivor.Features.Player.KCC;
 using _ArchSurvivor.Features.Player.Logic.FSM;
@@ -9,7 +9,7 @@ using UnityEngine;
 using VContainer;
 
 namespace _ArchSurvivor.Features.Player.Logic {
-    public class HeroCombat : MonoBehaviour<CharacterRuntimeData> {
+    public class HeroCombat : MonoBehaviour<CharacterRuntimeData, IInputReader>  {
         private CharacterRuntimeData _characterRuntimeData;
         
         private IInputReader _inputReader;
@@ -20,15 +20,10 @@ namespace _ArchSurvivor.Features.Player.Logic {
         
         private float _lastAttackTime;
         
-        protected override void Init(CharacterRuntimeData characterRuntimeData) {
+        protected override void Init(CharacterRuntimeData characterRuntimeData, IInputReader inputReader) {
             _characterRuntimeData = characterRuntimeData;
-        }
-
-        [Inject]
-        public void Construct(IInputReader inputReader) {
             _inputReader = inputReader;
         }
-
         private readonly Collider[] _detectionBuffer = new Collider[16];
         private Transform _currentTarget;
 
@@ -51,7 +46,7 @@ namespace _ArchSurvivor.Features.Player.Logic {
 
             for (int i = 0; i < count; i++) {
                 var col = _detectionBuffer[i];
-                if (col == null || !col.CompareTag(ArchSurvivalTagName.Enemy)) continue;
+                if (col == null || !col.CompareTag(GameKeys.ArchSurvivalTagName.Enemy)) continue;
 
                 float distSqr = (col.transform.position - transform.position).sqrMagnitude;
                 if (distSqr < minDistanceSqr) {

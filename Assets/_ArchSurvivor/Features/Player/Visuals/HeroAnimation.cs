@@ -9,7 +9,7 @@ using UnityEngine;
 using VContainer;
 
 namespace _ArchSurvivor.Features.Player.Visuals {
-    public class HeroAnimation : MonoBehaviour<CharacterRuntimeData> {
+    public class HeroAnimation : MonoBehaviour<CharacterRuntimeData, IInputReader>, IArgs<CharacterRuntimeData, IInputReader> {
         [Header("Components")]
         [SerializeField] private AnimancerComponent animancer;
 
@@ -22,12 +22,10 @@ namespace _ArchSurvivor.Features.Player.Visuals {
         private IInputReader _inputReader;
         private CharacterRuntimeData _characterRuntimeData;
         
-        protected override void Init(CharacterRuntimeData characterRuntimeData) {
+        protected override void Init(CharacterRuntimeData characterRuntimeData, IInputReader inputReader) {
             _characterRuntimeData = characterRuntimeData;
+            _inputReader = inputReader;
         }
-        
-        [Inject]
-        public void Construct(IInputReader inputReader) => _inputReader = inputReader;
 
         private void Awake() {
             _stateMachine = GetComponent<HeroStateMachine>();

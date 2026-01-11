@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using VContainer;
+using _ArchSurvivor.Core.Interfaces;
 using _ArchSurvivor.Core.Services.Data;
 using _ArchSurvivor.Features.Player.Interfaces;
 using _ArchSurvivor.Features.Player.KCC;
@@ -45,11 +46,7 @@ namespace _ArchSurvivor.Features.Player.Logic {
                 dataRow.ValPickupRange
             );
             
-            // Instantiate character prefab
-            InitArgs.Set<ArchHeroController,CharacterRuntimeData>(runtimeData);
-            InitArgs.Set<HeroMovement, CharacterRuntimeData>(runtimeData);
-            InitArgs.Set<HeroCombat, CharacterRuntimeData>(runtimeData);
-            InitArgs.Set<HeroAnimation, CharacterRuntimeData>(runtimeData);
+            InitArgs.Set<IArgs<CharacterRuntimeData>, CharacterRuntimeData>(runtimeData);
             
             var go = Object.Instantiate(prefab, position, Quaternion.identity);
             

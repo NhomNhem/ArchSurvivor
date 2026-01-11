@@ -9,7 +9,7 @@ using UnityEngine;
 using VContainer;
 
 namespace _ArchSurvivor.Features.Player.Logic {
-    public class HeroMovement : MonoBehaviour<CharacterRuntimeData> {
+    public class HeroMovement : MonoBehaviour<CharacterRuntimeData, IInputReader, IHeroProvider> {
         [Header("Settings")] 
         [SerializeField] private float _moveSpeed = 5f;
         [SerializeField] private float _rotationSpeed = 15f; 
@@ -19,17 +19,13 @@ namespace _ArchSurvivor.Features.Player.Logic {
         private IHeroProvider _heroProvider;
         
         private CharacterRuntimeData _characterRuntimeData;
-        
         private HeroStateMachine _heroStateMachine;
+        
 
-        [Inject]
-        public void Construct(IInputReader inputReader, IHeroProvider heroProvider) {
+        protected override void Init(CharacterRuntimeData characterRuntimeData, IInputReader inputReader, IHeroProvider heroProvider) {
+            _characterRuntimeData = characterRuntimeData;
             _inputReader = inputReader;
             _heroProvider = heroProvider;
-        }
-
-        protected override void Init(CharacterRuntimeData characterRuntimeData) {
-            _characterRuntimeData = characterRuntimeData;
         }
 
         private void Awake() {
